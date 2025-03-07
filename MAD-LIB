@@ -1,0 +1,7 @@
+print ("WELCOME TO MAD-LIB")
+print ("Please answer the following questions")
+print ("")
+
+adjective1 = input("Enter an adjective e.g. Massive")
+adjective1 = input("Enter an adjective e.g. Massive")
+
