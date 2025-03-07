@@ -1,0 +1,26 @@
+#inputs explained
+#Python has many "built in" functions
+#here is alist
+#https://docs.puthon.org/3/library/functions.h
+
+#here is a variable
+name = "bob"
+
+#However not everyone is called bob
+#here is how to allow a user to input
+#..their name
+name = str(input("Enter your name"))
+print("nice to meet you",name)
+
+age = int(input("Enter your age"))
+print("Wow I can't believe your",age)
+
+colour = str(input("Enter your favourite colour"))
+print("Your favourite colour is",colour)
+
+Address = str(input("Where do you live"))
+print("I haven't heard of",Address)
+
+Weight = float(input("How much do you weigh"))
+print("Oh you weigh",Weight)
+
