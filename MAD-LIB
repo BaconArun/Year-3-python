@@ -3,5 +3,20 @@ print ("Please answer the following questions")
 print ("")
 
 adjective1 = input("Enter an adjective e.g. Massive")
-adjective1 = input("Enter an adjective e.g. Massive")
+nationality = input("Enter a nationality >>> ")
+person1 = input("Enter a person >>> ")
+noun1 = input("Enter a noun (Person/place/thing)>>> ")
+adjective2 = input("Enter an adjective e.g. Massive")
+person2 = input("Enter a person >>> ")
+person3 = input("Enter a person >>> ")
+
+
+
+print("")
+print ("Here is your MAD-LIB")
+print("")
+print("You were invented by a" ,adjective1, nationality, person1, "in a" ,adjective2, noun1)
+print(person2, "is very" ,adjective2)
+print("And they are",adjective1, "because of" ,person3)
+print("Also",person1 ,"will hunt you down because you are" ,adjective1)
 
